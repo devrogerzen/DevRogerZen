@@ -40,9 +40,9 @@ ___
 |  React.js  | React.js / SpringBoot  | React.js | 
 
 
-| API Reqres  | Mi Portafolio  | API BreakingBad | 
+| API Reqres.in  | Mi Portafolio  | API BreakingBad | 
 |:---:|:---:|:---:|
-| <a href="https://silly-beaver-1d3561.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/ConsumeApiState-Reqres.in-Redux-Toolkit/blob/master/src/images/ReduxReqres.PNG" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a> | 
+| <a href="https://github.com/devrogerzen/Reqres.inAPI-REDUX" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/react-redux-api-reqres.png" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a> | 
 |  React.js REDUX | React.js  | React.js | 
 
 
