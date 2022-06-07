@@ -28,17 +28,23 @@ ___
 
 #### Algunos de mis proyectos:
 
-| PoKeAPI PoKeDeX React.js  | aki no  | aki no | 
-|---|---|---|
-| <a href="https://github.com/devrogerzen/PokeDeX-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/pokeapi-pokedex.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> | 
+|  PoKeAPI PoKeDeX  | aki no  | aki no |
+|:---:|:---:|:---:|
+| <a href="https://github.com/devrogerzen/PokeDeX-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/pokeapi-pokedex.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> |
+|  React.js  | aki no  | aki no | 
 
-| API Dog's React.js  | FullStack React.js/SpringBoot List  | App Tareas React 3Hook's | 
-|---|---|---|
+
+| API The Dog's | FullStack React.js/SpringBoot List  | App Tareas React 3Hook's | 
+|:---:|:---:|:---:|
 | <a href="https://github.com/devrogerzen/TheDogAPI-DRogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/app-thedog-api.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> | 
+|  React.js  | aki no  | aki no | 
 
-| React.js-Redux API Reqres  | Mi Portafolio React.js  | API BreakingBad React.js | 
-|---|---|---|
-| <a href="https://silly-beaver-1d3561.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/ConsumeApiState-Reqres.in-Redux-Toolkit/blob/master/src/images/ReduxReqres.PNG" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a>
+
+| API Reqres  | Mi Portafolio  | API BreakingBad | 
+|:---:|:---:|:---:|
+| <a href="https://silly-beaver-1d3561.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/ConsumeApiState-Reqres.in-Redux-Toolkit/blob/master/src/images/ReduxReqres.PNG" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a> | 
+|  React.js REDUX | React.js  | React.js | 
+
 
 ## ¿Hablamos?☕️
 <a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
