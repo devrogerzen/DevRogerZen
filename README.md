@@ -46,5 +46,5 @@ ___
 ### Rogersaya@gmail.com 📭 
 
 ## Portafolio:
-<a href="https://devrogerzen.github.io/xfolio/" target="_blank">https://devrogerzen.github.io/xfolio/</a>
+## https://devrogerzen.github.io/xfolio/
 
