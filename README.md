@@ -28,7 +28,7 @@ ___
 
 #### Algunos de mis proyectos:
 
-| PoKeAPI PoKeDeX  | aki no  | aki no | 
+| PoKeAPI PoKeDeX React.js  | aki no  | aki no | 
 |---|---|---|
 | <a href="https://github.com/devrogerzen/PokeDeX-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/pokeapi-pokedex.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> | 
 
