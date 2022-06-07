@@ -36,7 +36,7 @@ ___
 |---|---|---|
 | <a href="https://github.com/devrogerzen/TheDogAPI-DRogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/app-thedog-api.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> | 
 
-| React.js-Redux API Reqres  | Mi Portafolio  | API Breaking Bad React.js | 
+| React.js-Redux API Reqres  | Mi Portafolio React.js  | API Breaking Bad React.js | 
 |---|---|---|
 | <a href="https://silly-beaver-1d3561.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/ConsumeApiState-Reqres.in-Redux-Toolkit/blob/master/src/images/ReduxReqres.PNG" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://condescending-hypatia-8f5346.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-thebreakingbad-api.png" width="250" height="200"/></a>
 
