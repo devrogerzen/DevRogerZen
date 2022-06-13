@@ -28,9 +28,9 @@ ___
 
 #### Algunos de mis proyectos:
 
-|  PoKeAPI PoKeDeX  | 
-|:---:|
-| <a href="https://github.com/devrogerzen/PokeDeX-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/pokeapi-pokedex.png" width="250" height="200"/></a> | 
+|  PoKeAPI PoKeDeX  |  Mi Portafolio  |
+|:---:|:---:|
+| <a href="https://github.com/devrogerzen/PokeDeX-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/pokeapi-pokedex.png" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> |
 
 
 | API The Dog's | FullStack Employee List  | Tareas To-do | 
@@ -39,10 +39,10 @@ ___
 |  React.js  | React.js / SpringBoot  | React.js | 
 
 
-| API Reqres.in  | Mi Portafolio  | API BreakingBad | 
-|:---:|:---:|:---:|
-| <a href="https://github.com/devrogerzen/Reqres.inAPI-REDUX" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/react-redux-api-reqres.png" width="250" height="200"/></a> | <a href="https://devrogerzen.github.io/xfolio/" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/xfolio-app.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a> | 
-|  React.js REDUX | React.js  | React.js | 
+| API Reqres.in  | API BreakingBad | 
+|:---:|:---:|
+| <a href="https://github.com/devrogerzen/Reqres.inAPI-REDUX" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/react-redux-api-reqres.png" width="250" height="200"/></a> | <a href="https://github.com/devrogerzen/BreakingBad_BetterCallSaul-Quotes-DrogerZ" target="_blank"> <img src="https://github.com/devrogerzen/images-DRogerZ/blob/master/CaptureProjects/breakingBad-bettercallsaul.png" width="250" height="200"/></a> | 
+|  React.js REDUX | React.js  |
 
 
 ## ¿Hablamos?☕️
