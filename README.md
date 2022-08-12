@@ -32,8 +32,8 @@ ___
 ## ¿Hablamos?☕️
 <a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
  
-### Rogersaya@gmail.com 📭 
+### devrogerzen@gmail.com 📭 
 
 ## Portafolio:
-## https://devrogerzen.github.io/xfolio/
+## https://devrogerzen.github.io/drogerz/
 
