@@ -20,16 +20,18 @@
 
 #### Actualmente me dedico a:
 
-- Reforzar conocimientos sobre el stack tecnológico React.js, Java SpringBoot y tecnologías complementarias.
-- Realizar proyectos full stack 👉🏻 para afinar mis habilidades.
-- Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
+- +15 años de Experiencia en el sector IT orientado a roles técnicos, guía funcional, liderazgo de proyectos, y visión técnica de los procesos de negocio.
+- Reforzar conocimientos sobre el stack tecnológico Javascript Node React.js Next.js, Java SpringBoot y tecnologías complementarias.
+- Realizar proyectos full stack 👉🏻 para el mercado mundial.
+- Afianzar e investigar principios, patrones, buenas prácticas y metodologías para el desarrollo de software.
+- Habituado a los cambios en los procesos de desarrollo y organizacionales, ejecución de investigaciones y pruebas de concepto, mejoras de software e infraestructura relacionada.
 ___
 
 
 
 
 
-## ¿Hablamos?☕️
+## Status: Escuchando ofertas, Hablamos?☕️
 <a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
  
 ### devrogerzen@gmail.com 📭 
