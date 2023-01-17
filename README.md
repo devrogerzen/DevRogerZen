@@ -25,8 +25,8 @@ ___
 ___
 
  
-### devrogerzen@gmail.com 📭 
+## devrogerzen@gmail.com 📭 
 
-## Portafolio:
+# Portafolio:
 ## https://devrogerzen.github.io/drogerz/
 
