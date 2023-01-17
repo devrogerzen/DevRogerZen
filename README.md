@@ -1,5 +1,5 @@
 ### Hola, Mi nombre es Roger Jiménez 👋✨
-#### Desarrollador Web FullStack 💻 actualmente en **búsqueda activa** de empleo en dolares y Remoto.♨️
+#### Desarrollador Web FullStack 💻 actualmente en **búsqueda activa** de empleo en dolares y remoto.♨️
 
 
 ![Roger Jimenez](https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/nightlife.gif)
