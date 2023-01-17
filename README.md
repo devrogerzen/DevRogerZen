@@ -1,5 +1,5 @@
-### Hola, Mi nombre es Roger Jiménez 👋✨
-#### Desarrollador Web FullStack 💻 actualmente en **búsqueda activa** de empleo en dolares y remoto.♨️
+## Hola, Mi nombre es Roger Jiménez 👋✨
+### Soy Desarrollador Web FullStack 💻.♨️
 
 
 ![Roger Jimenez](https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/nightlife.gif)
@@ -20,8 +20,10 @@
 ___
 
 
-## Status: Escuchando ofertas, Hablamos?☕️
-<a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
+## Status: Escuchando ofertas en remoto en dolares, Hablamos?☕️
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roger-jimenez-3929149b/) 
+___
+
  
 ### devrogerzen@gmail.com 📭 
 
