@@ -1,5 +1,5 @@
 ## Hola, Mi nombre es Roger Jiménez 👋✨
-### Soy Desarrollador Web FullStack 💻.♨️
+### Soy Desarrollador FullStack 💻.♨️
 
 
 ![Roger Jimenez](https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/nightlife.gif)
