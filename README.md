@@ -11,16 +11,12 @@
 
 
 # 💫 Actualmente me dedico a:
-- +15 años de Experiencia en el sector IT orientado a roles técnicos, guía funcional, liderazgo de proyectos, y visión técnica de los procesos de negocio.<br> 
-- Reforzar conocimientos sobre el stack tecnológico Javascript, Node, React.js, Next.js, Java SpringBoot y tecnologías complementarias.<br> 
+- +15 años de Experiencia en el sector IT.<br> 
 - Realizar proyectos full stack 👉🏻 para el mercado mundial.<br>
-- Afianzar e investigar principios, patrones, buenas prácticas y metodologías para el desarrollo de software.<br>
-- Cambios en los procesos de desarrollo y organizacionales, ejecución de investigaciones y pruebas de concepto, mejoras de software e infraestructura relacionada.
-
 ___
 
 
-## Status: Escuchando ofertas 100% remoto en dolares, Hablamos?☕️
+## Status: Escucho ofertas 100% remoto en dolares, Hablamos?☕️
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrogerzen/) 
 
 ___
