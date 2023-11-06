@@ -11,8 +11,9 @@
 
 
 # 💫 Actualmente me dedico a:
-- +15 años de Experiencia en el sector IT.<br> 
-- Realizar proyectos full stack 👉🏻 para el mercado mundial.<br>
+- +15 años de Experiencia en el sector IT.<br>
+- + 3 años en Desarrollo de Software
+- Participar en proyectos Full Stack 👉🏻 para el mercado mundial.<br>
 ___
 
 
@@ -25,5 +26,5 @@ ___
 ## devrogerzen@gmail.com 📭 
 
 # Portafolio:
-## [https://devrogerzen.github.io/drogerz/](https://devrogerzen.vercel.app/)
+## [https://devrogerzen.vercel.app/](https://devrogerzen.vercel.app/)
 
