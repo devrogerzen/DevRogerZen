@@ -17,7 +17,7 @@
 ___
 
 
-## Status: Escucho ofertas 100% remoto en dolares, Hablamos?☕️
+## Status: Escucho ofertas, Hablamos?☕️
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrogerzen/) 
  ## [https://www.linkedin.com/in/devrogerzen/](https://www.linkedin.com/in/devrogerzen/)
 
