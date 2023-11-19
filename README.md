@@ -11,10 +11,6 @@
 
 
 
-
-![CosmosDB](https://img.shields.io/badge/CosmosDB-F9DC3e?style=for-the-badge&logo=Cosmosdb&logoColor=black)
-
-
 # 💫 Actualmente me dedico a:
 - +15 años de Experiencia en el sector IT.<br>
 - + 3 años en Desarrollo de Software
