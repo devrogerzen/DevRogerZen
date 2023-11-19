@@ -38,7 +38,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=Git&logoColor=white) 
 # 💫 Actualmente me dedico a:
 - +15 años de Experiencia en el sector IT.<br>
 - + 3 años en Desarrollo de Software
