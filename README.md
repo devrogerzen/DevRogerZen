@@ -43,7 +43,7 @@
 
 # 💫 Actualmente me dedico a:
 - +15 años de Experiencia en el sector IT.<br>
-- + 3 años en Desarrollo de Software
+- + 4 años en Desarrollo de Software
 - Participar en proyectos Full Stack 👉🏻 para el mercado mundial.<br>
 ___
 
