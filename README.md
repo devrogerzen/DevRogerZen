@@ -55,7 +55,7 @@ ___
 ___
 
  
-## devrogerzen@gmail.com 📭 
+## devrogerzen@outlook.com 📭 
 
 # Portafolio:
 ## [https://devrogerzen.vercel.app/](https://devrogerzen.vercel.app/)
