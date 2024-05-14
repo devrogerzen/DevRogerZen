@@ -49,8 +49,8 @@ ___
 
 
 ## Status: Escucho ofertas, Hablamos?☕️
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrogerzen/) {:target="_blank"}
- ## [https://www.linkedin.com/in/devrogerzen/](https://www.linkedin.com/in/devrogerzen/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrogerzen/)
+ ## [https://www.linkedin.com/in/devrogerzen/](https://www.linkedin.com/in/devrogerzen/){:target="_blank"}
 
 ___
 
